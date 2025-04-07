@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "image": "phone-no1",
+    "price": 999,
+    "description": "The iPhone 15 Pro features a titanium frame, A17 Bionic chip, and a 48MP camera. It delivers outstanding performance, a ProMotion display, and improved battery life, making it a premium flagship choice.",
+    "color": [
+      0.85,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "image": "phone-no2",
+    "price": 1199,
+    "description": "Samsung Galaxy S24 Ultra is a high-end flagship phone with an advanced 200MP camera, Snapdragon 8 Gen 3 processor, and S-Pen integration. Designed for power users and professionals.",
+    "color": [
+      0.10,
+      0.10,
+      0.10
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "image": "phone-no3",
+    "price": 899,
+    "description": "Google Pixel 8 Pro comes with AI-enhanced photography, Google Tensor G3 chipset, and a 50MP camera. Its pure Android experience and long software support make it a great choice.",
+    "color": [
+      0.90,
+      0.95,
+      0.98
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 14 Ultra",
+    "image": "phone-no4",
+    "price": 1099,
+    "description": "Xiaomi 14 Ultra is a premium smartphone with Leica-tuned cameras, Snapdragon 8 Gen 3, and a 1-inch sensor for stunning photography. A top-tier flagship for photography lovers.",
+    "color": [
+      0.98,
+      0.80,
+      0.60
+    ]
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 12",
+    "image": "phone-no5",
+    "price": 799,
+    "description": "OnePlus 12 offers a fast and smooth experience with a 120Hz AMOLED display, Snapdragon 8 Gen 3, and 100W fast charging. A perfect balance of performance and price.",
+    "color": [
+      0.30,
+      0.60,
+      0.90
+    ]
+  },
+  {
+    "id": 6,
+    "name": "ASUS ROG Phone 8",
+    "image": "phone-no6",
+    "price": 1299,
+    "description": "ASUS ROG Phone 8 is the ultimate gaming phone, featuring a 165Hz display, RGB lighting, Snapdragon 8 Gen 3, and an advanced cooling system for intense gaming sessions.",
+    "color": [
+      0.15,
+      0.15,
+      0.15
+    ]
+  }
+]
+

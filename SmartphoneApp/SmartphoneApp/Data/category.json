@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Flagship Phones",
+    "image": "icon-flagship-phones",
+    "colorName": "blue"
+  },
+  {
+    "id": 2,
+    "name": "Budget Phones",
+    "image": "icon-budget-phones",
+    "colorName": "green"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Phones",
+    "image": "icon-gaming-phones",
+    "colorName": "purple"
+  },
+  {
+    "id": 4,
+    "name": "Camera Phones",
+    "image": "icon-camera-phones",
+    "colorName": "red"
+  },
+  {
+    "id": 5,
+    "name": "Foldable Phones",
+    "image": "icon-foldable-phones",
+    "colorName": "orange"
+  },
+  {
+    "id": 6,
+    "name": "Compact Phones",
+    "image": "icon-compact-phones",
+    "colorName": "pink"
+  }
+]

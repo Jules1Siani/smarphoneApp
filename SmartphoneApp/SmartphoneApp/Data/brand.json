@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "image" : "brand-no01"
+  },
+  {
+    "id" : 2,
+    "image" : "brand-no02"
+  },
+  {
+    "id" : 3,
+    "image" : "brand-no03"
+  },
+  {
+    "id" : 4,
+    "image" : "brand-no04"
+  },
+  {
+    "id" : 5,
+    "image" : "brand-no05"
+  },
+  {
+    "id" : 6,
+    "image" : "brand-no06"
+  }
+]
